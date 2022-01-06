@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGLibrary", "RPGLibrary\RPGLibrary.csproj", "{0CAEBB52-601E-4A6D-8F26-BE2DB5A450B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGWindows", "..\RPGWindows\RPGWindows\RPGWindows.csproj", "{02C95A54-AF3C-488A-885A-87F64F923469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGPXamarin.Android", "RGPXamarin\RGPXamarin.Android\RGPXamarin.Android.csproj", "{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RGPXamarin", "RGPXamarin\RGPXamarin\RGPXamarin.csproj", "{7FFBBB5E-7A38-45CD-B889-9AE7E1A70B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAEBB52-601E-4A6D-8F26-BE2DB5A450B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAEBB52-601E-4A6D-8F26-BE2DB5A450B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAEBB52-601E-4A6D-8F26-BE2DB5A450B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAEBB52-601E-4A6D-8F26-BE2DB5A450B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C95A54-AF3C-488A-885A-87F64F923469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C95A54-AF3C-488A-885A-87F64F923469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C95A54-AF3C-488A-885A-87F64F923469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C95A54-AF3C-488A-885A-87F64F923469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683162A6-95AD-48F1-B2C5-DEDD904FF2AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7FFBBB5E-7A38-45CD-B889-9AE7E1A70B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFBBB5E-7A38-45CD-B889-9AE7E1A70B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFBBB5E-7A38-45CD-B889-9AE7E1A70B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFBBB5E-7A38-45CD-B889-9AE7E1A70B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F71CA25-9FBD-4937-A774-3A82832097C0}
+	EndGlobalSection
+EndGlobal
